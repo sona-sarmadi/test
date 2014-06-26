@@ -12,4 +12,5 @@ static void hello_exit(void){
 module_init(hello_init);
 module_exit(hello_exit);
 #This is commit 2
+#This is commit 3
 
